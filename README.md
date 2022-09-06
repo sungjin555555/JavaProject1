@@ -4,6 +4,7 @@ Project1. Java CRUD project with file I/O
 --------------------------------------------------------
 ***
 1. 'driveway' 단어 추가
+
 ![image](https://user-images.githubusercontent.com/103707815/188586015-cb06ce37-d0fd-461c-a3b2-ab025a871a5a.png)
 ***
 2. 단어장 확인
