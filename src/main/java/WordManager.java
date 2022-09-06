@@ -30,9 +30,9 @@ public class WordManager {
                 wordCRUD.addWord();
             }
             else if(menu == 1){
-                //
+                wordCRUD.listAll();
             }
         }
-        System.out.println("aa");
+        System.out.println("프로그램 종료!");
     }
 }
