@@ -19,7 +19,7 @@ Project1. Java CRUD project with file I/O
 
 ![image](https://user-images.githubusercontent.com/103707815/188586116-9af0e9a2-3e2d-4971-a777-76ec3e1f8a2b.png)
 
-[2단계] 최종보고서 – 수정/삭제, 검색, 파일 저장, 및 로딩 기능구현![image](https://user-images.githubusercontent.com/103707815/190402396-a0effce0-d152-4bef-9d4b-259919abde98.png)
+[2단계] 최종보고서 – 수정/삭제, 검색, 파일 저장, 및 로딩 기능구현
 --------------------------------------------------------
 ***
 1. 모든 단어 보기
